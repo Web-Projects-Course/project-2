@@ -1,0 +1,13 @@
+
+body h1 {font-family: cursive; }
+.cop-speech {font-family: monospace; font-size: 18px; background-color: orangered}
+.baby-speech {font-family: inherit; font-size: 16px; background-color: palevioletred}
+p1, p2 {font-family: serif; color: cornflowerblue; background-color: greenyellow}
+
+#the-end {font-family: cursive; font-size: 25px; background-color: cadetblue;}
+body {background-image: url(chapel.jpg);
+    background-repeat: repeat-y;
+    background-size: cover; 
+    color: navajowhite; }
+#end {background-color: cadetblue; font-size: 18px; font-family: cursive; }
+p3 {color: cornflowerblue; background-color: greenyellow; }
